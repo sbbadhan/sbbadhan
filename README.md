@@ -1,4 +1,4 @@
-##  Software Engineer  |  Python |  Machine Learning  |  Open Source
+##  𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 | 𝒫𝓎𝓉𝒽𝑜𝓃 | 𝑀𝒶𝒸𝒽𝒾𝓃𝑒 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔 | 𝒪𝓅𝑒𝓃 𝒮𝑜𝓊𝓇𝒸𝑒
 
 [![](https://visitcount.itsvg.in/api?id=sbbadhan&icon=2&color=1)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbbadhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badhanbiswas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sbbadhan) 
