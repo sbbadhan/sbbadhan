@@ -1,4 +1,4 @@
-## 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 | 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 | 𝕆𝕡𝕖𝕟 𝕊𝕠𝕦𝕣𝕔𝕖 | 𝔸𝕀 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
+## 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣 | 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 | 𝕆𝕡𝕖𝕟 𝕊𝕠𝕦𝕣𝕔𝕖
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badhanbiswas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sbbadhan) 
 
